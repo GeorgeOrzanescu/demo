@@ -1,7 +1,7 @@
 {
   "user" : {
-    "id" : 1,
-    "firstName" : "George",
-    "secondName" : "Orzanescu"
+     "id" : 1,
+     "firstName" : "George",
+     "secondName" : "Orzanescu"
    }
-}
+ }
