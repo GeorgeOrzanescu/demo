@@ -1,0 +1,22 @@
+{
+
+  "matches": {
+    "games": [
+      {
+        "id": 1,
+        "home": "Manchester United",
+        "away": "Liverpool"
+      },
+      {
+        "id": 2,
+        "home": "Manchester City",
+        "away": "Newcastle United"
+      },
+      {
+        "id": 3,
+        "home": "Arsenal",
+        "away": "Bristol"
+      }
+    ]
+  }
+}
